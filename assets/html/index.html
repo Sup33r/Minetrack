@@ -19,6 +19,7 @@
 	<meta name="description" content="{{metaDescription}}">
 
 	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Minetrack Sweden">
 	<meta property="og:title" content="{{title}}">
 	<meta property="og:description" content="{{metaDescription}}">
 	<meta property="og:url" content="{{canonicalUrl}}">
@@ -28,6 +29,8 @@
 	<meta name="twitter:title" content="{{title}}">
 	<meta name="twitter:description" content="{{metaDescription}}">
 	<meta name="twitter:image" content="https://minetrack.nu/og-image.png">
+
+	{{siteNameStructuredData}}
 
 	<script>
 		try {
@@ -59,13 +62,13 @@
 		<div id="perc-bar"></div>
 
 		<header>
-			<div class="header-possible-row-break column-left">
+			<div class="header-possible-row-break column-left" data-nosnippet>
 				<img class="logo-image" src="../images/logo.svg" alt="{{title}} logo">
 				<h1 class="logo-text">{{title}}</h1>
 				<p class="logo-status">{{subtitle}}</p>
 			</div>
 
-			<div class="header-possible-row-break column-right">
+			<div class="header-possible-row-break column-right" data-nosnippet>
 				<div id="sort-by" class="header-button header-button-single"><span class="icon-sort-amount-desc"></span> {{sortByLabel}}<br><strong id="sort-by-text">{{playersLabel}}</strong></div>
 
 				<div id="settings-toggle" class="header-button header-button-single" style="margin-left: 20px;"><span class="icon-gears"></span> {{graphControlsLabel}}</div>
@@ -80,7 +83,7 @@
 
 		<div id="big-graph"></div>
 
-		<div id="big-graph-controls">
+		<div id="big-graph-controls" data-nosnippet>
 			<div id="big-graph-controls-drawer">
 				<div id="big-graph-checkboxes"></div>
 
@@ -97,7 +100,7 @@
 	</main>
 
 	<footer id="footer">
-		<span class="icon-code"></span> {{footerPoweredBy}}
+		<span data-nosnippet><span class="icon-code"></span> {{footerPoweredBy}}</span>
 	</footer>
 
 </body>
