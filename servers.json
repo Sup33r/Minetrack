@@ -123,5 +123,20 @@
     "name": "NixonMC",
     "ip": "nixonmc.se",
     "type": "PC"
+  },
+  {
+    "name": "SHLBS",
+    "ip": "shlbs.se",
+    "type": "PC"
+  },
+  {
+    "name": "Obsidians",
+    "ip": "mc.obsidians.se",
+    "type": "PC"
+  },
+  {
+    "name": "Minecraft.se",
+    "ip": "play.minecraft.se",
+    "type": "PC"
   }
 ]
