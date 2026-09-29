@@ -138,5 +138,10 @@
     "name": "Minecraft.se",
     "ip": "play.minecraft.se",
     "type": "PC"
+  },
+  {
+    "name": "Kladkatt",
+    "ip": "kladkatt.se",
+    "type": "PC"
   }
 ]
