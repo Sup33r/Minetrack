@@ -143,5 +143,10 @@
     "name": "Kladkatt",
     "ip": "kladkatt.se",
     "type": "PC"
+  },
+  {
+    "name": "TallriketMC",
+    "ip": "tallriketmc.se",
+    "type": "PC"
   }
 ]
