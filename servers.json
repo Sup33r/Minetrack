@@ -152,5 +152,10 @@
   { "name": "Xtralarge",
     "ip": "xtralarge.se",
     "type": "PC"
+  },
+  {
+    "name": "Midgardsaga",
+    "ip": "midgardsaga.nu",
+    "type": "PC"
   }
 ]
