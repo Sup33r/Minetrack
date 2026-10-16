@@ -3,10 +3,8 @@
 </p>
 
 # Minetrack
-Minetrack makes it easy to keep an eye on your favorite Minecraft servers. Simple and hackable, Minetrack easily runs on any hardware. Use it for monitoring, analytics, or just for fun. [Check it out](https://minetrack.me).
-
-### This project is not actively supported!
-This project is not actively supported. Pull requests will be reviewed and merged (if accepted), but issues _might_ not be addressed outside of fixes provided by community members. Please share any improvements or fixes you've made so everyone can benefit from them.
+Minetrack makes it easy to keep an eye on your favorite Minecraft servers. Simple and hackable, Minetrack easily runs on any hardware. Use it for monitoring, analytics, or just for fun. [Check it out](https://minetrack.nu).
+This is a fork of the [original Minetrack project](https://github.com/Cryptkeeper/Minetrack).
 
 ### Features
 - 🚀 Real time Minecraft server player count tracking with customizable update speed.
@@ -19,6 +17,7 @@ This project is not actively supported. Pull requests will be reviewed and merge
 ### Community Showcase
 You can find a list of community hosted instances below. Want to be listed here? Add yourself in a pull request!
 
+* https://minetrack.nu
 * https://minetrack.me
 * https://bedrock.minetrack.me
 * https://minetrack.gg
@@ -34,7 +33,6 @@ You can find a list of community hosted instances below. Want to be listed here?
 * https://track.pacor.ro
 * https://minetrack.spielelp.de
 * https://tracking.v4guard.io
-* https://minetrack.nu
 
 ## Updates
 For updates and release notes, please read the [CHANGELOG](docs/CHANGELOG.md).
