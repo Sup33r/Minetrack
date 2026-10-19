@@ -106,7 +106,7 @@
   },
   {
     "name": "Neylox",
-    "ip": "neylox.kinetic.host",
+    "ip": "survival-neylox.kinetic.host",
     "type": "PC"
   },
   {
@@ -161,6 +161,11 @@
   {
     "name": "Swedish SMP",
     "ip": "swedishsmp.net",
+    "type": "PC"
+  },
+  {
+    "name": "Catgang SMP",
+    "ip": "catgang.se",
     "type": "PC"
   }
 ]
