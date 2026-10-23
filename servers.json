@@ -167,5 +167,10 @@
     "name": "Catgang SMP",
     "ip": "catgang.se",
     "type": "PC"
+  },
+  {
+    "name": "Viken MC",
+    "ip": "vikenmc.se",
+    "type": "PC"
   }
 ]
