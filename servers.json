@@ -106,7 +106,7 @@
   },
   {
     "name": "Neylox",
-    "ip": "survival-neylox.kinetic.host",
+    "ip": "neyloxsmp.modpack.gg",
     "type": "PC"
   },
   {
@@ -130,11 +130,6 @@
     "type": "PC"
   },
   {
-    "name": "Obsidians",
-    "ip": "mc.obsidians.se",
-    "type": "PC"
-  },
-  {
     "name": "Minecraft.se",
     "ip": "play.minecraft.se",
     "type": "PC"
@@ -142,11 +137,6 @@
   {
     "name": "Kladkatt",
     "ip": "kladkatt.se",
-    "type": "PC"
-  },
-  {
-    "name": "TallriketMC",
-    "ip": "tallriketmc.se",
     "type": "PC"
   },
   { "name": "Xtralarge",
@@ -171,6 +161,11 @@
   {
     "name": "Viken MC",
     "ip": "vikenmc.se",
+    "type": "PC"
+  },
+  {
+    "name": "Mosscraft",
+    "ip": "mosscraft.se",
     "type": "PC"
   }
 ]
