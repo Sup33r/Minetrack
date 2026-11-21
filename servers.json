@@ -164,8 +164,13 @@
     "type": "PC"
   },
   {
-    "name": "Mosscraft",
+    "name": "Mosscraft Open",
     "ip": "mosscraft.se",
+    "type": "PC"
+  },
+  {
+    "name": "Mosscraft",
+    "ip": "spela.mosscraft.se",
     "type": "PC"
   }
 ]
